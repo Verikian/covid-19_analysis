@@ -1,6 +1,6 @@
 # Analiza i predykcja liczby zarażeń na COVID-19 w Polsce 
 
-Projekt wykonano w ramach przedmiotu Analiza Dużych Zbiorów Danych (ADD) na uczelni PJATK w Warszawie przez studentów
+Projekt wykonano w ramach przedmiotu Analiza Dużych Zbiorów Danych (ADD) na uczelni PJATK w Warszawie przez studentów:
 - **Katarzyna Kleczkowska** ()
 - **Adam Sitko** (Verikian)
 
@@ -10,7 +10,7 @@ Cel projektu:
 - Wyznaczenie początku oraz końca poszczególnych fal pandemii wraz z ich podstawowymi wskaźnikami statystycznymi.
 - Stworzenie modelu, który będzie przewidywał liczbę zakażeń w danym dniu w Polsce.
 
-Dane historyczne, na podstawie których wykonano projekt, pochodzą z [Europejskiego Centrum ds. Zapobiegania i Kontroli Chorób ECDC](https://www.ecdc.europa.eu/en/publications-data/data-daily-new-cases-covid-19-eueea-country/)
+Dane historyczne, na podstawie których wykonano projekt, pochodzą z [Europejskiego Centrum ds. Zapobiegania i Kontroli Chorób ECDC](https://www.ecdc.europa.eu/en/publications-data/data-daily-new-cases-covid-19-eueea-country/).
 
 Kod napisano w języku **Python** przy wykorzystaniu narzędzia **Jupyter Notebook**.
 
